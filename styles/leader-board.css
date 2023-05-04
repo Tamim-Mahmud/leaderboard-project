@@ -12,6 +12,7 @@ body {
     background: #562EFF;
     display: flex;
     justify-content: space-around;
+    margin-bottom: 36px;;
 }
 
 .left {
